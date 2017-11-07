@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "921edecdccb6d33ec994a335c74972dc"
+build_time: [558562430, 172882000]
+inputs:
+  "/Users/Bamz/Developer/FaceIt/FaceIt/FaceViewController.swift": [558227911, 0]
+  "/Users/Bamz/Developer/FaceIt/FaceIt/FacialExpression.swift": [558052820, 0]
+  "/Users/Bamz/Developer/FaceIt/FaceIt/EmotionsViewController.swift": [558559993, 0]
+  "/Users/Bamz/Developer/FaceIt/FaceIt/AppDelegate.swift": [557955690, 0]
+  "/Users/Bamz/Developer/FaceIt/FaceIt/FaceView.swift": [558559749, 0]

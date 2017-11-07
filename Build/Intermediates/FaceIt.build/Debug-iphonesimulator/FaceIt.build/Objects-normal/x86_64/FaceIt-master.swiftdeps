@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "0f384b512f5b033d56cef59c61fa8d1a"
+build_time: [558563078, 331365000]
+inputs:
+  "/Users/Bamz/Developer/FaceIt/FaceIt/VCLLogginViewController.swift": [558563078, 0]
+  "/Users/Bamz/Developer/FaceIt/FaceIt/FaceViewController.swift": [558563078, 0]
+  "/Users/Bamz/Developer/FaceIt/FaceIt/FacialExpression.swift": [558052820, 0]
+  "/Users/Bamz/Developer/FaceIt/FaceIt/EmotionsViewController.swift": [558563078, 0]
+  "/Users/Bamz/Developer/FaceIt/FaceIt/AppDelegate.swift": [557955690, 0]
+  "/Users/Bamz/Developer/FaceIt/FaceIt/FaceView.swift": [558559749, 0]
